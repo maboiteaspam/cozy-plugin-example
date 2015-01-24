@@ -1,7 +1,7 @@
 {
-  "name": "cozy-distro",
+  "name": "cozy-plugin example",
   "version": "1.0.0",
-  "description": "Installs a cozy-distro from github, npm, or file system, it s a Cozy-light plugin",
+  "description": "Provides a plugin reference implementation to kick-start your dev.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
