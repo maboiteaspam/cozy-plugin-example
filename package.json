@@ -1,0 +1,11 @@
+{
+  "name": "cozy-distro",
+  "version": "1.0.0",
+  "description": "Installs a cozy-distro from github, npm, or file system, it s a Cozy-light plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "maboiteaspam",
+  "license": "WTFPL"
+}
