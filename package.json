@@ -1,9 +1,10 @@
 {
-  "name": "cozy-plugin example",
+  "name": "cozy-plugin-example",
   "version": "1.0.0",
-  "description": "Provides a plugin reference implementation to kick-start your dev.",
+  "description": "Provides a plugin example implementation to kick-start your dev.",
   "main": "index.js",
   "scripts": {
+    "lint": "eslint ./*.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "maboiteaspam",

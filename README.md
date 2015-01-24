@@ -1,3 +1,3 @@
 # Cozy-light plugin example
 
-Provides a plugin reference implementation to kick-start your dev.
+Provides a plugin example implementation to kick-start your dev.
